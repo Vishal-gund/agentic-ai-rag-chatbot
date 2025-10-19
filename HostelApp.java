@@ -2,7 +2,7 @@
 //Fields: rollNo, name, roomType (Single, Double, or Dorm), and fees.
 //Constructor assigns the fees as  Single = ₹12000  Double = ₹8000//Dorm = ₹5000
 
-
+// check just for fetch property
 import java.util.Scanner;
 class HostelStudent{
 	int rollNo ;
